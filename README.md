@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Israt
-## 👀 I’m interested in **backend** and **frontend coding**, although I also have knowledge on **Cyber Security and Digital Forensics** from my degree**.  
+## 👀 I’m interested in **backend** and **frontend coding**, although I also have knowledge on Cyber Security and Digital Forensics** from my degree.  
 ## 💻 I’m currently a **fullstack trainee** at **Bright Network Technology Academy (BNTA)**, learning languages such as 
 - Java
 - Spring
